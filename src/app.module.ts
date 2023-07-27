@@ -11,7 +11,7 @@ import { AuthModule } from './auth/auth.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: "######",
+      password: "########",
       database: 'task-management',
       autoLoadEntities: true,
       synchronize: true
