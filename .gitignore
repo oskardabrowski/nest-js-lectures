@@ -36,3 +36,5 @@ lerna-debug.log*
 
 .history
 .env
+.env.stage.dev
+.env.stage.prod
